@@ -1,5 +1,11 @@
+.weather-app {
+  margin: 600, 415;
+  background-color: #ffff;
+}
+
 body {
   font-family: arial, sans-serif;
+  background-image: url(../images/beach.jpg);
 }
 
 h1 {
